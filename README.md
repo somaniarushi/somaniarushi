@@ -1,15 +1,6 @@
 ### Hi there 👋
 
-I'm Arushi — online, I go by AMKS. 
-
-I'm a student at UC Berkeley studying Computer Science and Economics. Go Bears! 🐻
-
-I fill my time by:
-- 🔬 Researching the intersection of ML/PL under [Prof. Koushik Sen](https://people.eecs.berkeley.edu/~ksen/?rnd=1658081729521)
-- 🛠 Helping run Berkeley's collegiate hackathon, [Cal Hacks](https://calhacks.io)
-- 📖 Teaching a handful of classes around Berkeley
-
-I keep a living document about myself at [amks.me](https://amks.me) and put all my inane thoughts at [t.co/itsamks](https://twitter.com/itsamks).
+I'm Arushi — online, I go by AMKS. I work at [Adept AI Labs](https://adept.ai) on scaling models on massive clusters. I put all my sane thoughts at [amks.me](https://amks.me) and all my insane ones at [t.co/itsamks](https://twitter.com/itsamks).
 
 In this github, you'll find a few different types of projects: fun hacks I built for me and my friends to mess around with, projects I built to learn something I didn't know before, and some projects that I hope would help a lot more people. 
 

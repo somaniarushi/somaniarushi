@@ -1,10 +1,6 @@
 ### Hi there 👋
 
-I'm Arushi — online, I go by AMKS. I work at [Adept AI Labs](https://adept.ai) on scaling models on massive clusters. I put all my sane thoughts at [amks.me](https://amks.me) and all my insane ones at [t.co/itsamks](https://twitter.com/itsamks).
-
-In this github, you'll find a few different types of projects: fun hacks I built for me and my friends to mess around with, projects I built to learn something I didn't know before, and some projects that I hope would help a lot more people. 
-
-Please ask me about any of these! Always happy to chat — reach me at [hi@amks.me](mailto:hi@amks.me).
+I'm Arushi. I’m a ML researcher interested in multi-step reasoning and long-horizon planning. Reach me at [hi@amks.me](mailto:hi@amks.me).
 
 <!--
 
